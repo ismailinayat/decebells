@@ -1,0 +1,48 @@
+title: 
+price: 13990,
+sku: AMT-5768
+mainCategory: Wireless
+subCategory: "tws"
+
+description: 
+
+
+featuresDescription:
+ ♫ 
+ ♫ 
+ ♫ 
+ ♫ 
+ ♫ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*TrueWireless Stereo Plus synchronous signal transmission technology only for those compatible devices
+
+
+featuresSummary:
+35dB full frequency hybrid active noise cancelling
+6 microphones with 360 degrees full noise cancelling
+Qualcomm QCC5124 flagship chip
+High quality aptX audio decoding
+TWS + binaural synchronous transmission technology
+Play time: 10 hours (single charge) 30 hours (with charging case)
+In-ear detection function and Support voice assistant
+IP45 waterproof and LDS antenna connection
+
+mainImage: "AMT-5768-main image.jpg",
+
+images: ["AMT-5768-image 1.jpg", "AMT-5768-image 2.jpg", "AMT-5768-image 3.jpg", "AMT-5768-image 4.jpg"]
+
+

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ismail",
+    "email": "ismail@example.com",
+    "number": 03365561173,
+    "dateOfBirth": 21-12-1988,
+    "gender": "male",
+    "password": "test1234",
+    "passwordConfirm": "test1234",
+    "address": [
+      {
+      "streetAddress": "Lane 3, shallay valley, range road",
+      "city": "rawalpindi",
+      "province": "punjab"
+      }
+    ]
+    
+
+
+  }
+]
